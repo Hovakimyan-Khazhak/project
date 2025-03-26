@@ -20,3 +20,34 @@
 // console.log(personalMovieDB)
 "use strict";
 
+const hamburger =2;
+const fries = 1;
+
+if(hamburger && fries){
+    console.log("ya cit")
+}
+
+console.log((hamburger && fries))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
